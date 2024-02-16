@@ -1,0 +1,1 @@
+A 4-bit single cycle CPU that uses fixed length instructions with two types of instruction formats: R-type and I-type. In R-type instructions both operands come from registers. In I-type instructions, the first operand comes from a register and the second will be contained within the instruction.
